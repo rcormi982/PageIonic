@@ -1,0 +1,7 @@
+{
+  "name": "pageionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
